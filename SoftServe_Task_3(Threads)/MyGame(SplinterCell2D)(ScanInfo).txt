@@ -1,0 +1,8 @@
+=========================
+Name of directory with files:	 MyGame(SplinterCell2D)
+Count of Empty lines		 = 199
+Count of comment lines		 = 68
+Count of code lines		 = 2521
+Count of files			 = 1
+Time spending for reading files	 = 0.026
+=========================

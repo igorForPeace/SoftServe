@@ -1,0 +1,8 @@
+=========================
+Name of directory with files:	 OOP_Home_Work_6(Weapon)
+Count of Empty lines		 = 17
+Count of comment lines		 = 0
+Count of code lines		 = 148
+Count of files			 = 2
+Time spending for reading files	 = 0.002
+=========================

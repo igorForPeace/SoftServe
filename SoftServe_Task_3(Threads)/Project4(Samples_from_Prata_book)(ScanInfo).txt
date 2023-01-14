@@ -1,0 +1,8 @@
+=========================
+Name of directory with files:	 Project4(Samples_from_Prata_book)
+Count of Empty lines		 = 665
+Count of comment lines		 = 11329
+Count of code lines		 = 28
+Count of files			 = 52
+Time spending for reading files	 = 0.08
+=========================

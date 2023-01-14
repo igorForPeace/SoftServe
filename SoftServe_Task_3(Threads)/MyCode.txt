@@ -1,0 +1,12 @@
+#include <iostream> //include libraries
+using namespace std; //our namespace
+
+/*
+start of main programm
+*/
+int main()
+{
+	//output info on the console
+	cout << "Hello world!" << endl;
+	return 0;
+}

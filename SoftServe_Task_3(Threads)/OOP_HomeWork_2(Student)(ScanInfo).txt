@@ -1,0 +1,8 @@
+=========================
+Name of directory with files:	 OOP_HomeWork_2(Student)
+Count of Empty lines		 = 148
+Count of comment lines		 = 96
+Count of code lines		 = 766
+Count of files			 = 8
+Time spending for reading files	 = 0.007
+=========================
